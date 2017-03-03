@@ -4,6 +4,7 @@
 ###-npm install gulp-g
 ###-npm init
 ###-npm install gulp --save-dev
+###-npm install gulp-sass --save-dev
 ###-create gulpfile.js (Preferably root level)
 ###-(in gulpfile.js)
 ###-You can create 'tasks', and run them using 'gulp "task-name"'
