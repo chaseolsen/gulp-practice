@@ -1,0 +1,19 @@
+$primary-color: #444444;
+$jumbo-text: #f4ce42;
+$alert-color: #d30606;
+* {
+  background-color: red;
+}
+.testing {
+  width: percentage(5/7);
+}
+
+.container {
+  color: $jumbo-text;
+}
+
+
+
+.opening-para {
+  color: $alert-color;
+}
